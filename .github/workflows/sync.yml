@@ -11,8 +11,10 @@ jobs:
     steps:
       - uses: TobKed/github-forks-sync-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           upstream_repository: anuraghazra/github-readme-stats
           target_repository: infinitepower18/github-readme-stats
           upstream_branch: master
           target_branch: master
+          force: true
+          tags: true
