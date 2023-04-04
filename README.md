@@ -6,5 +6,5 @@ If you like my work, do consider buying me a coffee. All donations are greatly a
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1K06VY)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitepower18&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitepower18&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-nu-hazel-61.vercel.app/api?username=infinitepower18&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-nu-hazel-61.vercel.app/api/top-langs/?username=infinitepower18&layout=compact&theme=tokyonight)
